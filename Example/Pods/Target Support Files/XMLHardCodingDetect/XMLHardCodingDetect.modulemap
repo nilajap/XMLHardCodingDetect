@@ -1,0 +1,6 @@
+framework module XMLHardCodingDetect {
+  umbrella header "XMLHardCodingDetect-umbrella.h"
+
+  export *
+  module * { export * }
+}

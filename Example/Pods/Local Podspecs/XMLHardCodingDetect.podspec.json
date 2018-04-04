@@ -1,0 +1,22 @@
+{
+  "name": "XMLHardCodingDetect",
+  "version": "0.1.0",
+  "summary": "A short description of XMLHardCodingDetect.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Nilaja Patankar/XMLHardCodingDetect",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Nilaja Patankar": "nilaja1991@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Nilaja Patankar/XMLHardCodingDetect.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "XMLHardCodingDetect/Classes/**/*"
+}
