@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XMLHardCodingDetect_Tests' do
+  pod 'XMLHardCodingDetect', :path => '../'
+  
+  
+end
